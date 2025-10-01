@@ -1,0 +1,7 @@
+/node_modules
+package-lock.json
+.DS_Store
+ChatGPT in Scientific Research and Writing.pdf
+ChatGPT in Scientific Research and Writing.md
+*.py
+cache/
